@@ -15,6 +15,7 @@ main python code:
   worked on main python code 
   
 - me (ddozzi) -> 25%
+  worked on main python code 
   helped fix errors
   cleaned up / made code more efficient
   
@@ -27,7 +28,7 @@ website design:
    left after contribution to main code
  
 - person 2 -> 1%
-  gave idea 
+  also left after giving idea 
   
 - me (ddozzi) -> 99%
   did everything
